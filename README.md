@@ -1,4 +1,4 @@
-# `ruuf` - A simple yet convenient cross-platform ARP spoofer.
+# `ruuf` - A simple yet convenient cross-platform ARP spoofer
 
 Poison the ARP cache of the given victim, thereby redirecting the traffic to the target therefrom
 through the local machine.
