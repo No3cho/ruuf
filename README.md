@@ -25,7 +25,7 @@ FLAGS:
 
 OPTIONS:
     -i <iface>                  Network interface to use
-    -u <resolve-timeout>        ARP resolution timeout, in milliseconds
+    -u <resolve-timeout>        ARP resolution timeout, in milliseconds [default: 10000]
     -j <spoof-interval>         ARP spoofing interval, in milliseconds [default: 10000]
     -t <target-ip-addr>         Spoof as the machine with this IPv4 address
     -v <victim-ip-addr>         Poison the ARP Cache of the machine with this IPv4 address
