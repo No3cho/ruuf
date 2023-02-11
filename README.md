@@ -7,9 +7,9 @@ through the local machine.
 
 You may choose from either option:
 
-1. Download the latest binary most pertinent to you from the 
+1. Download the latest binary (for Linux) from the
    [Releases](https://github.com/No3cho/ruuf/releases) page.
-2. Build from source via 
+2. Build from source (mandatory for those on Windows or MacOS) via 
    `git clone https://github.com/No3cho/ruuf.git && cd ruuf && cargo build --release`.
 
 ## Using `ruuf`
