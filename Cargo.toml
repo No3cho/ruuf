@@ -1,0 +1,12 @@
+[package]
+name = "ruuf"
+version = "0.1.0"
+edition = "2021"
+authors = ["No3cho <79093085+No3cho@users.noreply.github.com>"]
+description = "A simple yet convenient cross-platform ARP spoofer"
+repository = "https://github.com/No3cho/ruuf"
+
+[dependencies]
+pnet = "0.33.0"
+structopt = "0.3.26"
+ctrlc = { version = "3.2.5", features = ["termination"] }
